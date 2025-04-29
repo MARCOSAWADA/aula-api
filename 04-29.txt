@@ -1,0 +1,3 @@
+crie um select com html que tenha 20 options
+
+quando este select mudar (evento change), voce deve realizar uma requisição para o pokemon especifico daquele id do select, quando tiver a resposta, exibir o nome do pokemon, a imagem, e o tipo dele.
